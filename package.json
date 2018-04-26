@@ -1,0 +1,23 @@
+{
+  "name": "@unchained/superdating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^8.3.0",
+    "browser-sync": "^2.23.7",
+    "classy-gulp": "^1.0.1",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
