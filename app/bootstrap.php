@@ -1,6 +1,6 @@
 <?php
 session_start();
-include 'app/Database.php';
+include 'Database.php';
 
 if (!isset($_SESSION['login'])){
     $_SESSION['login'] = 1;
